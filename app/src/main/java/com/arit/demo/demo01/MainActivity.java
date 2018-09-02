@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     @BindView(R.id.tvMsg) TextView tvMsg;
 
 
- /*  private tvmsg  ok uuhh     */
+ /*  private tvmsg  ok uu    */
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
